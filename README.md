@@ -27,7 +27,7 @@ Purpose: A health-focused bot that uses artificial intelligence to provide healt
 
 Use Case: You can integrate the HealthBot into your project to handle health-related queries or provide personalized health information. For example, the bot could assist users with health-related questions, provide medication reminders, or offer general health advice.
 
-## Screenshots of Azure services:-------------------------------------------------
+## Screenshots of Azure services
 ## 1 Azure Resources - Homepage
 <img width="960" alt="Screenshot 2023-12-26 233802" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Home.png">
 
@@ -41,7 +41,7 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="613" alt="Screenshot 2023-12-26 234710" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Health%20Bot%20Report.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Key Sections-------------------------------------------------
+## Key Sections
 
 1. **Home:**
 <img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/1.png">
