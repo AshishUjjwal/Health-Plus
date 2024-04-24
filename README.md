@@ -1,35 +1,35 @@
 ﻿<h1 align="center">Health-Plus</h1>
-<h1>
-## Future Ready Talent Microsoft project 
+<h1 align="center">
+Future Ready Talent Microsoft project 
 </h1>
 "Health Plus makes it easy to find a Doctor related to your Health. It has all the info about Doctors, is easy to use, and helps you quickly set up appointments for better Heath service."
 ## Deployed Website On Azure :-  https://mango-forest-0ce50e110.5.azurestaticapps.net 
 ## Project Video:- 
 
-## Introduction
+<h2 align="center">Introduction</h2>
 
 Health Plus Website is designed to offer a user-friendly experience in exploring various aspects of Health care. Whether you're looking for information about our team, services, or seeking advice from our health bot, Heath Plus has you covered.
 
 
-# Azure Technology used 
-## 1: Azure Static Web Apps:
+<h2 align="center">Azure Technology used </h2>
+**1: Azure Static Web Apps:**
 
 Purpose: Hosts static web content, such as HTML, CSS, and JavaScript.
 
 Use Case: Ideal for hosting the frontend of your application, providing a fast and scalable way to deliver static content to users.
-## 2: Azure Storage Account with Container:
+**2: Azure Storage Account with Container:**
 
 Purpose: Offers scalable and secure storage for various types of data.
 
 Use Case: You might use Azure Storage to store and retrieve assets like images, videos, or any other files needed by your static web app. Containers within the storage account help organize and manage the data efficiently.
 
-## 3: AI HealthBot:
+**3: AI HealthBot:**
 
 Purpose: A health-focused bot that uses artificial intelligence to provide health-related information and assistance.
 
 Use Case: You can integrate the HealthBot into your project to handle health-related queries or provide personalized health information. For example, the bot could assist users with health-related questions, provide medication reminders, or offer general health advice.
 
-## Screenshots of Azure services
+<h2 align="center">Screenshots of Azure services</h2>
 ## 1 Azure Resources - Homepage
 <img width="960" alt="Screenshot 2023-12-26 233802" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Home.png">
 
@@ -43,7 +43,7 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="613" alt="Screenshot 2023-12-26 234710" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Health%20Bot%20Report.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Key Sections
+<h2 align="center">Key Sections</h2>
 
 1. **Home:**
 <img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/1.png">
