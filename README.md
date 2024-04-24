@@ -1,5 +1,7 @@
-﻿<h1 align="center">## **Health-Plus**
-## Future Ready Talent Microsoft project
+﻿<h1 align="center">Health-Plus</h1>
+<h1>
+## Future Ready Talent Microsoft project 
+</h1>
 "Health Plus makes it easy to find a Doctor related to your Health. It has all the info about Doctors, is easy to use, and helps you quickly set up appointments for better Heath service."
 ## Deployed Website On Azure :-  https://mango-forest-0ce50e110.5.azurestaticapps.net 
 ## Project Video:- 
