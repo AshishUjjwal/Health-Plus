@@ -88,4 +88,4 @@ To run the project locally:
 
 ## Contributing
 
-If you'd like to contribute to the Dentacarehub Website, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+If you'd like to contribute to the HealthPlus Website, please follow the [Contributing Guidelines](CONTRIBUTING.md).
