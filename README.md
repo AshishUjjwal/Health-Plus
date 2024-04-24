@@ -9,7 +9,7 @@
 Health Plus Website is designed to offer a user-friendly experience in exploring various aspects of Health care. Whether you're looking for information about our team, services, or seeking advice from our health bot, Heath Plus has you covered.
 
 
-# Azure Technology used:---------------------------------------------
+# Azure Technology used 
 ## 1: Azure Static Web Apps:
 
 Purpose: Hosts static web content, such as HTML, CSS, and JavaScript.
