@@ -32,45 +32,38 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="960" alt="Screenshot 2023-12-26 233802" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Home.png">
 
 ## Azure Static Web App
-<img width="960" alt="Screenshot 2023-12-26 233904" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/340ecb71-03b3-443e-b52f-4048134f7b4b">
+<img width="960" alt="Screenshot 2023-12-26 233904" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/HealthPlus.png">
 
 ## Azure Health Bot
-<img width="960" alt="Screenshot 2023-12-26 233957" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/1f05b337-f010-4d40-9faa-3db83b1b9302">
+<img width="960" alt="Screenshot 2023-12-26 233957" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Health%20Bot.png">
 
 ## Azure Health Bot Report
-<img width="613" alt="Screenshot 2023-12-26 234710" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/fe3c33f5-46b4-44e1-8626-bbca2aece83a">
-
-## Azure Storage Accounts
-<img width="960" alt="Screenshot 2023-12-26 234151" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/587703fe-f5fb-4f1b-a47c-8dd6bbd73507">
-
-## Azure Storage Container
-<img width="960" alt="Screenshot 2023-12-26 234548" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/122510aa-a6a6-4104-bd5e-15bc1e90ce3f">
+<img width="613" alt="Screenshot 2023-12-26 234710" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Health%20Bot%20Report.png">
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Sections-------------------------------------------------
 
 1. **Home:**
-<img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/d4eab004-3f54-4e47-8727-432be651f765">
+<img width="952" alt="Screenshot 2023-11-18 224311" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/1.png">
 
-2. **About:**
-<img width="955" alt="Screenshot 2023-11-18 224343" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/985aa0bc-73b4-43be-95f5-e02d02040769">
-
-3. **Health Bot:**
-<img width="650" alt="Screenshot 2023-12-13 120433" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/7e2e8302-b5db-40ab-b148-7ef52e6a9478">
+2. **Health Bot:**
+<img width="650" alt="Screenshot 2023-12-13 120433" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/2.png">
 
 
-4. **Services:**
-<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/def11fa7-6622-4ee9-b7d2-3e8124e76a9b">
+3. **Services:**
+<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/5.png">
 
-5. **Blog:**
-<img width="954" alt="Screenshot 2023-11-18 232058" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/89eb8224-8398-41ed-bd48-40074b98721a">
+4. **Appointment:**
+<img width="954" alt="Screenshot 2023-11-18 232058" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/4.png">
 
-6. **Prices:**
-<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/ac5665b8-6886-4f26-8c93-7bd2278751c9">
+5. **Departments:**
+<img width="953" alt="Screenshot 2023-11-18 225100" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/6.png">
 
+6. **Contact Us:**
+<img width="953" alt="Screenshot 2023-11-18 232024" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/3.png">
 
-7. **Team:**
-<img width="953" alt="Screenshot 2023-11-18 232024" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/825bffa2-38e8-4d98-9627-ace19a89f188">
+7. **Newsletter/About:**
+<img width="955" alt="Screenshot 2023-11-18 224343" src="https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/7.png">
 
 - Developed a website (HTML, CSS, JavaScript) with an integrated AI Health Bot for
 enhanced user interaction, deployed on Azure for optimal performance.
