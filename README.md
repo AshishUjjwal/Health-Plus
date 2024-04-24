@@ -32,7 +32,7 @@ Use Case: You can integrate the HealthBot into your project to handle health-rel
 <img width="960" alt="Screenshot 2023-12-26 233802" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/cd727110-9730-4b35-9284-1ae9aa73c067">
 
 ## Azure Static Web App
-<img width="960" alt="Screenshot 2023-12-26 233904" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/340ecb71-03b3-443e-b52f-4048134f7b4b">
+<img width="960" alt="Screenshot 2023-12-26 233904" src="[https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/340ecb71-03b3-443e-b52f-4048134f7b4b](https://github.com/AshishUjjwal/Health-Plus/blob/main/Images%20Readme/Azure%20Home.png)">
 
 ## Azure Health Bot
 <img width="960" alt="Screenshot 2023-12-26 233957" src="https://github.com/gouravgithub7710/Dentist_Microsoft_Project/assets/144522131/1f05b337-f010-4d40-9faa-3db83b1b9302">
